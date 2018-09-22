@@ -6,16 +6,16 @@ def assign_variable(value)
   random_variable=value
 end
 
-def argue
-  
+def argue(argument)
+  argument
 end
 
-def greeting
+def greeting(one,two)
 
 end
 
 def return_a_value
-
+  return "Nice"
 end
 
 def last_evaluated_value
